@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSnod93/notepad.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DSnod93/notepad/issues"
+  },
+  "homepage": "https://github.com/DSnod93/notepad#readme"
 }
